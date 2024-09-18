@@ -5,6 +5,7 @@
 Install the dependencies:
 
 ```bash
+nvm use
 npm install
 ```
 
@@ -27,3 +28,10 @@ Preview the production build locally:
 ```bash
 npm preview
 ```
+
+
+## Formatting & Linting
+
+Uses Biome for formatting ( ESLINT + Prettier "combo")
+
+In WebsStorm, install the Biome plugin and restart IDE. Then go to Preferences -> Languages & Frameworks -> Biome and toggle on "Run format on save".
