@@ -1,4 +1,5 @@
 # Rsbuild Project
+Simple SPA with React, Rsbuild, React-dom-router, Zustand.
 
 ## Setup
 
